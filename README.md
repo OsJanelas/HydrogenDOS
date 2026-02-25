@@ -18,6 +18,6 @@ reboot system
 rgb aurora animation
 
 # 📷 Screenshots
-<p align="center"><img src="Screenshots/Screenshot1.png"></p>
-<p align="center"><img src="Screenshots/Screenshot2.png"></p>
-<p align="center"><img src="Screenshots/Screenshot3.png"></p>
+<p align="center"><img src="Screenshot1.png"></p>
+<p align="center"><img src="Screenshot2.png"></p>
+<p align="center"><img src="Screenshot3.png"></p>
